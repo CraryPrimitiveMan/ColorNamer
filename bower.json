@@ -1,6 +1,7 @@
 {
   "name": "ColorNamer",
   "version": "0.0.1",
+  "main": "index.html",
   "homepage": "https://github.com/CraryPrimitiveMan/ColorNamer",
   "authors": [
     "Harry Sun <harrysun@augmentum.com.cn>"
