@@ -3,6 +3,12 @@ Name a color. [Demo](http://craryprimitiveman.github.io/demos/colornamer/)
 
 The color pick based on [colpick-jQuery-Color-Picker](https://github.com/josedvq/colpick-jQuery-Color-Picker)
 
+Install
+-------------------
+```sh
+bower install color-namer
+```
+
 Styles
 -------------------
 It looks like the followings
